@@ -3,7 +3,7 @@
 ## Author
 The author of this project is Victoria Eve Awuor
 ### Description of the project
-This is a web application that is intended to take the user's birhday and calculate the day  day of the week they were born and then depending on their gender outputs their Akan Name.
+This is a web application that is intended to take the user's birhday and calculate the  day of the week they were born and then depending on their gender outputs their Akan Name.
 ## Project Set up Instructions
 
 - Programming languages used:
@@ -13,10 +13,9 @@ This is a web application that is intended to take the user's birhday and calcul
 
 Set up instructions
 - Clone this repository to a location in your file system 
-    ```
-- https://github.com/vicky-eve/Akan-names-IP.git
--  Open terminal command line then navigate to the root folder of the application <cd Akan-Names-IP>
-    ```
+https://github.com/vicky-eve/Akan-names-IP.git
+-  Open terminal command line then navigate to the root folder of the application
+ <cd Akan-Names-IP>
 - Open index.html on your browser
 ## BDD
 - Input century of birth for example 19 for 1996
@@ -34,7 +33,7 @@ Set up instructions
 * 0 < Date <= 31.
 * < Month <= 12
  ### Contact Information
- For more information, reah me at victoria.awuor@moringaschool.com
+ For more information, reah me at victoria.awuor@student.moringaschool.com
   
 
 ##### Link to live site on GitHub page
