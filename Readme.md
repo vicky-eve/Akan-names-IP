@@ -1,5 +1,5 @@
 # AKAN NAMES
-![](https://i.postimg.cc/QdW8P1xR/Screenshot-23.png)
+![](https://i.postimg.cc/Df1nqLwZ/Screenshot-25.png)
 ## Author
 The author of this project is Victoria Eve Awuor
 ### Description of the project
