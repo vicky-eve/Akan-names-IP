@@ -44,15 +44,38 @@
                     <div class="col-md-6">
                         <h3>Get your name</h1>
                         <p>Enter your date of birth</p>
+                        <form name="myForm" class="form" onsubmit="validate();">
+                            <div class="form-group">
                         <input type="number" class="form-control" id="year" placeholder="Year"year">
+                    </div>
+                    <div class="form-group">
                         <input type="number" class="form-control" id="month" placeholder="Month" name="month">
                         <input type="number" class="form-control" id="date" placeholder="Date" name="date">
                         <input type="submit"> 
                         <p>Enter your gender</p>
                         <input type="radio" name="gender" value="male"> Male<br>
                         <input type="radio" name="gender" value="female"> Female<br>
-                        <script  type = "text/javascript" src="scripts.js"></script>
-                        <var dayofWeek = ["sunday", "monday", "tuesday", ednesday', "thursday", "friday", "saturday"]></var>
+                       
+                        
+            <div class="form-check-inline">
+                <label class="form-check-label">
+                  <input type="radio" class="form-check-input" name="gender" id="male">&nbsp; Male 
+                </label>
+              </div>
+              <div class="form-check-inline">
+                <label class="form-check-label">
+                  <input type="radio" class="form-check-input" name="gender" id="female">&nbsp; Female 
+                </label>
+              </div>
+            </div>
+            <button type="submit" class="btn btn-primary" onclick="findName();">Get Name</button>
+            <br>
+          </form>
+   <div class="form-group">
+              <label for="number">Year of Birth:</label>
+              <input type="number" class="form-control" id="year" placeholder="Year of Birth Eg: 2019 if born in 2019" name="year">
+              <script  type = "text/javascript" src="scripts.js"></script>
+            </div>
                     </div>
                 </div>
             </div>
