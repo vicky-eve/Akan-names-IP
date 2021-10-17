@@ -6,7 +6,7 @@ The author of this project is Victoria Eve Awuor
 This is a web application that is intended to take the user's birhday and calculate the  day of the week they were born and then depending on their gender outputs their Akan Name.
 ## Project Set up Instructions
 
-- Programming languages used:
+Programming languages used:
 - HTML,
 - CSS(Bootstrap)
 - Javascript
@@ -30,10 +30,8 @@ https://github.com/vicky-eve/Akan-names-IP.git
 
 - Select your gender appropriately 
 
-- Submit. Ensure you have input correct dates otherwise you will get 'invalid' if you don't adhere to the following conditions
+- Submit. Ensure you have input correct dates otherwise you will get 'invalid' if you don't adhere to the following conditions; 0 < Date <= 31 and 0 < Month <= 12
 
-* 0 < Date <= 31.
-* < Month <= 12
  ### Contact Information
  For more information, reah me at victoria.awuor@student.moringaschool.com
   
