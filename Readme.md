@@ -15,8 +15,10 @@ Set up instructions
 - Clone this repository to a location in your file system 
 https://github.com/vicky-eve/Akan-names-IP.git
 -  Open terminal command line then navigate to the root folder of the application
- <cd Akan-Names-IP>
-- Open index.html on your browser
+ (cd Akan-Names-IP)
+
+-  Open index.html on your browser
+
 ## BDD
 - Input century of birth for example 19 for 1996
 
