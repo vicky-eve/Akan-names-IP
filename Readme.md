@@ -36,5 +36,6 @@ https://github.com/vicky-eve/Akan-names-IP.git
  For more information, reah me at victoria.awuor@student.moringaschool.com
   
 
-##### Link to live site on GitHub page
+#### Link to live site on GitHub page
+
 https://vicky-eve.github.io/Akan-names-IP/
