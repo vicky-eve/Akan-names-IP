@@ -37,3 +37,4 @@ https://github.com/vicky-eve/Akan-names-IP.git
   
 
 ##### Link to live site on GitHub page
+https://vicky-eve.github.io/Akan-names-IP/
